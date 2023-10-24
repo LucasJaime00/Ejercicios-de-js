@@ -1,0 +1,1 @@
+console.log("El resultado de sumar 3+5 es: "+(3+5))
